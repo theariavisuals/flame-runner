@@ -18681,7 +18681,7 @@ _.cU=_.bK=$
 _.co=null
 _.eT=a
 _.dI=0
-_.dJ=700
+_.dJ=600
 _.fU=0
 _.dg=!1
 _.bK$=b
@@ -56964,7 +56964,7 @@ n=q.gi2().dJ
 m=new A.V(new Float64Array(2))
 m.aM(n,0)
 n=new A.V(new Float64Array(2))
-n.aM(360,250)
+n.aM(500,250)
 s=2
 return A.F(A.aaK(p,o,B.va,m,B.fz,B.fv,n,null),$async$bH)
 case 2:n=b
@@ -57174,7 +57174,7 @@ n.tX(m[1]+p*a)
 n.a4()
 p=m[1]
 m=l.ax.a[1]/2
-if(p+m>=500){n.tX(500-m)
+if(p+m>=750){n.tX(750-m)
 n.a4()
 o.c=l.p1=0
 o.b=!0
@@ -57190,7 +57190,7 @@ var $async$bH=A.E(function(a,b){if(a===1)return A.A(b,r)
 while(true)switch(s){case 0:k=q.ok
 j=new Float64Array(2)
 i=new A.V(j)
-i.aM(360,640)
+i.aM(500,900)
 p=new Float64Array(2)
 o=j[0]
 j=j[1]
@@ -57223,7 +57223,7 @@ j.a4()
 k=new A.zi(null,i,j,B.au,0,null,new A.bu([]),new A.bu([]))
 k.mp(null,null,null,null,0,null,null,null,null)
 j=new A.V(new Float64Array(2))
-j.aM(0,500)
+j.aM(0,750)
 i=i.d
 i.fH(j)
 i.a4()
@@ -57249,7 +57249,7 @@ return A.C($async$mc,r)},
 oy(){var s=0,r=A.D(t.H),q=this,p
 var $async$oy=A.E(function(a,b){if(a===1)return A.A(b,r)
 while(true)switch(s){case 0:q.dg=!1
-q.dJ=700
+q.dJ=600
 q.dI=0
 q.eT.sp(0)
 J.eO(q.gcv().i1(0,t.p3),new A.PP())
@@ -57276,7 +57276,7 @@ q.dg=!0
 J.eO(q.gcv().i1(0,t.p3),new A.PU())
 p=$.a7().aQ()
 o=new A.V(new Float64Array(2))
-o.aM(50,300)
+o.aM(50,550)
 n=new A.V(new Float64Array(2))
 n.aM(50,50)
 m=A.lC()
@@ -57313,7 +57313,7 @@ s.gfs().u(0,"Hud")
 s.eT.sp(0)
 s.dI=0
 s.dg=!0
-s.dJ=700
+s.dJ=600
 s.fU=0
 J.eO(s.gcv().i1(0,t.Fh),new A.PS())
 J.eO(s.gcv().i1(0,t.p3),new A.PT())
@@ -57392,7 +57392,7 @@ VI(){var s,r,q,p,o=this,n=null,m=o.ax.a13(),l=o.at
 l===$&&A.b()
 l.a=(400+m*500)/o.gi2().dJ
 m=new A.V(new Float64Array(2))
-m.aM(460,500)
+m.aM(600,750)
 l=new A.V(new Float64Array(2))
 l.aM(50,50)
 s=o.gi2().dJ
@@ -57421,7 +57421,7 @@ A.mk.prototype={
 W(a){var s=null,r=A.bk(217,0,0,0),q=A.xl(20),p=A.a8u(B.h,2),o=t.U
 return A.a5g(A.LW(A.LG(A.a([B.K0,B.FA,A.akK(A.a([this.u7(a,B.f6,B.h,"Hanzo","ninjaRun_1.gif"),B.uw,this.u7(a,B.f7,B.oT,"Arthur","knightRun_1.gif"),B.uw,this.u7(a,B.f8,B.oS,"Tom","villagerRun.gif")],o),B.cF)],o),B.cF),new A.eR(r,s,p,q,s,s,B.aQ),s,s,B.jr,s),s,s)},
 u7(a,b,c,d,e){var s=null,r=A.bk(B.c.aU(25.5),255,255,255),q=A.xl(12),p=A.a8u(c,2)
-return A.OG(s,A.LG(A.a([A.LW(new A.kZ(B.yo,A.a5Z("assets/images/"+e,B.vv,s),s),new A.eR(r,s,p,q,s,s,B.aQ),80,s,s,80),B.ux,A.abv(d,A.nH(s,s,c,s,s,s,s,s,s,s,s,s,s,s,B.bw,s,s,!0,s,s,s,s,s,s,s,s))],t.U),B.oI),!1,s,s,s,s,s,s,s,new A.Lm(this,b),s,s,s)}}
+return A.OG(s,A.LG(A.a([A.LW(new A.kZ(B.yo,A.a5Z("assets/images/"+e,B.vv,s),s),new A.eR(r,s,p,q,s,s,B.aQ),60,s,s,60),B.ux,A.abv(d,A.nH(s,s,c,s,s,s,s,s,s,s,s,s,s,s,B.bw,s,s,!0,s,s,s,s,s,s,s,s))],t.U),B.oI),!1,s,s,s,s,s,s,s,new A.Lm(this,b),s,s,s)}}
 A.Lm.prototype={
 $0(){this.a.c.oZ(this.b)},
 $S:0}
@@ -62246,7 +62246,7 @@ B.Fr=new A.P(B.b5,!0,!0,!1,!1,B.a8)
 B.Fq=new A.P(B.b6,!0,!0,!1,!1,B.a8)
 B.Fx=new A.S(1e5,1e5)
 B.hO=new A.fR(0,0,null,null)
-B.uw=new A.fR(20,null,null,null)
+B.uw=new A.fR(10,null,null,null)
 B.ux=new A.fR(null,10,null,null)
 B.Fz=new A.fR(null,20,null,null)
 B.FA=new A.fR(null,30,null,null)
