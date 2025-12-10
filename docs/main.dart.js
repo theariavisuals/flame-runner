@@ -57174,7 +57174,7 @@ n.tX(m[1]+p*a)
 n.a4()
 p=m[1]
 m=l.ax.a[1]/2
-if(p+m>=750){n.tX(750-m)
+if(p+m>=600){n.tX(600-m)
 n.a4()
 o.c=l.p1=0
 o.b=!0
@@ -57223,7 +57223,7 @@ j.a4()
 k=new A.zi(null,i,j,B.au,0,null,new A.bu([]),new A.bu([]))
 k.mp(null,null,null,null,0,null,null,null,null)
 j=new A.V(new Float64Array(2))
-j.aM(0,750)
+j.aM(0,600)
 i=i.d
 i.fH(j)
 i.a4()
@@ -57276,7 +57276,7 @@ q.dg=!0
 J.eO(q.gcv().i1(0,t.p3),new A.PU())
 p=$.a7().aQ()
 o=new A.V(new Float64Array(2))
-o.aM(50,550)
+o.aM(50,400)
 n=new A.V(new Float64Array(2))
 n.aM(50,50)
 m=A.lC()
@@ -57392,7 +57392,7 @@ VI(){var s,r,q,p,o=this,n=null,m=o.ax.a13(),l=o.at
 l===$&&A.b()
 l.a=(400+m*500)/o.gi2().dJ
 m=new A.V(new Float64Array(2))
-m.aM(600,750)
+m.aM(600,600)
 l=new A.V(new Float64Array(2))
 l.aM(50,50)
 s=o.gi2().dJ
